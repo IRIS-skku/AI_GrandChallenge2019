@@ -18,6 +18,9 @@
 ##### c. Sampling frequency and file length: 48 kHz, 1 – 5 seconds (speech signals are always overlapped with drone noise signals).
 ##### d. SNR: Minimum -50 dB to maximum 10 dB
 
+## 4. Download Link
+##### http://gofile.me/4Vczb/H6PDDNeUa
+
 ## Appendix: Speech sentences (in Korean language)
 
 ##### 불이야 여기 불 났어
@@ -51,6 +54,3 @@
 ##### 다리가 부러졌어요
 ##### 피를 많이 흘려요
 ##### 제발 빨리요
-
-## 4. Download Link
-http://gofile.me/4Vczb/H6PDDNeUa
