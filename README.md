@@ -19,7 +19,7 @@
 ##### d. SNR: Minimum -50 dB to maximum 10 dB
 
 ## 4. Download Link
-##### http://gofile.me/4Vczb/H6PDDNeUa
+##### http://gofile.me/4Vczb/RxSYka6jE
 
 ## Appendix: Speech sentences (in Korean language)
 
